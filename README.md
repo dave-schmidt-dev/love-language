@@ -30,7 +30,6 @@ A lightweight, single-page application (SPA) that calculates a user's primary "L
 
 **Deployment Pipeline:**
 
-```
 Developer Push (Main) → GitHub Actions R# Love Language Assessment
 
 <div align="center">
@@ -56,9 +55,7 @@ Azure Static Web Apps → Global Edge Distribution
 
 **Runtime Flow:**
 
-```
 User Browser → Azure Edge (HTTPS) → React SPA → Local Calculation
-```
 
 ## 🚀 Quick Start
 
