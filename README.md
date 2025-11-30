@@ -51,7 +51,6 @@ A lightweight, single-page application (SPA) that calculates a user's primary "L
     Build (Vite) → Generate /dist Artifact
           ↓
 Azure Static Web Apps → Global Edge Distribution
-```
 
 **Runtime Flow:**
 
